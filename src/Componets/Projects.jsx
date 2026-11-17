@@ -50,6 +50,29 @@ export default function Projects() {
       tech: ["React.js", "Node.js", "Express.js", "MongoDB", "Razorpay", "REST APIs"],
       link: "https://e-shop-beta-eight.vercel.app/",
       type: "client"
+    },
+
+    {
+      name: "Mindstocs Studio",
+      company: "Mindstocs Studio",
+      description:
+        "A modern, responsive marketing frontend built with React, Vite, and Tailwind CSS. Features interactive landing pages, service showcases, dark mode aesthetics, and client-side routing for an enterprise digital studio.",
+      impact: "Built a fast, accessible, and responsive marketing platform with fluid motion effects and modular UI components",
+      process: [
+        "Built responsive, mobile-first UI layouts using Tailwind CSS with dark mode aesthetics",
+        "Implemented smooth scroll reveals, interactive carousels, and transitions using Framer Motion",
+        "Structured modular, component-based architecture with reusable layout, UI, and section components",
+        "Integrated multi-page client-side routing and SEO meta tag management using React Router and React Helmet",
+      ],
+      tech: [
+        "React.js",
+        "Vite",
+        "Tailwind CSS",
+        "Framer Motion",
+        "React Router"
+      ],
+      link: "https://mind-stocs.vercel.app/",
+      type: "client"
     }
   ];
 

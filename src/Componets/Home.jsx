@@ -89,7 +89,7 @@ function Home() {
 
                             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                                 <a
-                                    href="https://drive.google.com/file/d/1YsHoScHewBSkdVh2DWX3GOzyhBM44f5u/view?usp=drivesdk"
+                                    href="https://drive.google.com/file/d/1GzAN1ZcXr4hafP_u59zEKNdjpRtKJAnj/view?usp=drivesdk"
                                     target="_blank"
                                     className="px-6 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-lg hover:opacity-90 transition duration-300"
                                 >
