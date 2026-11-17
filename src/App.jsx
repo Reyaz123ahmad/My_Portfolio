@@ -1,0 +1,29 @@
+import React from 'react'
+import Navbar from './Componets/Navbar'
+import Home from './Componets/Home'
+import Aboutus from './Componets/Aboutus'
+import Experience from './Componets/Experience'
+import Footer from './Componets/Footer'
+import Contact from './Componets/Contact'
+import { Toaster } from 'react-hot-toast'
+import Skill from './Componets/Skill'
+import Projects from './Componets/Projects'
+
+function App() {
+  return (
+    <>
+      <div>
+      <Navbar/>
+      <Home/>
+      <Aboutus/>
+      <Skill/>  
+      <Projects/>
+      <Experience/>
+      <Contact/>
+      </div>
+      <Toaster/>
+    </>
+  )
+}
+
+export default App
